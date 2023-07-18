@@ -5,6 +5,9 @@ git commit "comment"
 git remote add name "url.git"
 git push -u name
 
+dowload 
+git clone "url"
+
 
 #Basic React
 - state :  là một đối tượng chứa dữ liệu có thể thay đổi trong component. khi state thay đổi React sẽ cập nhật  giao diện hiển thị của component tương ứng , thường được sử dụng để lưu trữ các thông tin cần thiết cho component như trạng thái hiện tại, từ API ,giá trị nhập từ người dùng.
