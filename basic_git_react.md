@@ -2,8 +2,8 @@
 git init
 git add . 
 git commit "comment"
-git remote add name "url.git"
-git push -u name
+git remote add origin "url.git"
+git push  origin master
 
 dowload 
 git clone "url"
