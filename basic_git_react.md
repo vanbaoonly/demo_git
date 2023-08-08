@@ -7,6 +7,7 @@ git push  origin master
 
 dowload 
 git clone "url"
+git checkout (commit)
 
 
 #Basic React
